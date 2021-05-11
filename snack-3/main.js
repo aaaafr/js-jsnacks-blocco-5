@@ -9,4 +9,19 @@ function invertiStringa(stringa){
 
     document.write("");
 }
+
+
+// secondo metodo
+
+
+
+// function reverseString (stringa){
+//var parola="";
+//     for(var i = (stringa.length - 1); i >= 0; i--){
+//         parola += text[i]);
+//     }
+// return parola;
+// }
+
+// console.log(reverseString("ciao"));
  
